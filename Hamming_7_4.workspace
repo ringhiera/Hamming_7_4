@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Hamming_7_4" Database="">
+  <Project Name="Hamming_7_4" Path="Hamming_7_4.project" Active="Yes"/>
+  <Project Name="TestHamming_7_4" Path="TestHamming_7_4/TestHamming_7_4.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Hamming_7_4" ConfigName="Debug"/>
+      <Project Name="TestHamming_7_4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="Hamming_7_4" ConfigName="Release"/>
+      <Project Name="TestHamming_7_4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
